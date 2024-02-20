@@ -97,6 +97,6 @@ You can also include the sort.h header file in your own programs and use the sor
 
 This project was implemented by:
 
- * [Solomon Kassa](https://github.com/Solomonkassa)
- * [Adissu Mulat](https://github.com/Adika1630)
+ * [Solomon Kassa](https://github.com/Solomonmulu)
+
 
